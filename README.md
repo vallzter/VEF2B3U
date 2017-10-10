@@ -1,14 +1,14 @@
 # VEF2B3U
 Verkefni fyrir VEF2B3U
-##Nemandi
+## Nemandi
 Valgeir Ingi Þórðarson
 
 valgeiringi@gmail.com
-##Kenanari
+## Kenanari
 Gunnar Þórunnarson
 
 gus@tskoli.is
-###Skóli
+### Skóli
 Tækniskólinn
 
 Upplýsingatækniskólinn
