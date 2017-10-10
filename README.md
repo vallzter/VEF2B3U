@@ -4,7 +4,7 @@ Verkefni fyrir VEF2B3U
 Valgeir Ingi Þórðarson
 
 valgeiringi@gmail.com
-## Kenanari
+## Kennanari
 Gunnar Þórunnarson
 
 gus@tskoli.is
