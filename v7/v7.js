@@ -40,7 +40,7 @@ Er function sem sem keyrir aðra functiona. JavaScript virkar með að keyra
 *Event Loop er biðröð aðgerða. 
 *Þegar async-aðgerð er framkvæmd er callback function 
 *ýtt inn í biðröð. JavaScript byrjar ekki að vinna atburðarásina 
-*fyrr en kóða eftir async-aðgerðar hefur verið framkvæmd.
+*fyrr en að kóð eftir async-aðgerð hefur verið framkvæmd.
 */
 
 /*4. Leiðréttu eftirfarandi kóða þannig að hann virki (ekki syntax villa). (1%)
